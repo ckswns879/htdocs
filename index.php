@@ -7,14 +7,12 @@
 	<title>Document</title>
 </head>
 <body>
-	<?php echo "php 에서 실행된 부분";     //echo = 출력한다
-	
+	<?php 
 	// php 변수 = $
-	$a =1;
+	$a = "php";
+	echo "$a 에서 실행된 부분";     //echo = 출력한다
 	
 	?>
-
-
 
 	<script>
 		//자바스크립트변수
